@@ -2,7 +2,7 @@ import React from 'react'
 
 const StartsCanvas = () => {
   return (
-    <div>StartsCanvas</div>
+    <div>StarsCanvas</div>
   )
 }
 
